@@ -757,6 +757,7 @@ body {
 }
 .subscribe__input:focus {
     color: #000;
+    outline: none;
 }
 .subscribe__button {
     display: flex;
